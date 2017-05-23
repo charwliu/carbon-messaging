@@ -32,9 +32,9 @@
     <name>WSO2 Carbon Messaging Parent</name>
 
     <scm>
-        <url>https://github.com/wso2/carbon-messaging.git</url>
-        <developerConnection>scm:git:https://github.com/wso2/carbon-messaging.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2/carbon-messaging.git</connection>
+        <url>https://github.com/charwliu/carbon-messaging.git</url>
+        <developerConnection>scm:git:https://github.com/charwliu/carbon-messaging.git</developerConnection>
+        <connection>scm:git:https://github.com/charwliu/carbon-messaging.git</connection>
         <tag>HEAD</tag>
     </scm>
 
